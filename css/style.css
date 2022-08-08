@@ -1,0 +1,7 @@
+/* global */
+@import "global/global.css";
+
+/* utilidades */
+@import "utilidades/componentes.css";
+@import "utilidades/cores.css";
+@import "utilidades/tipografia.css";

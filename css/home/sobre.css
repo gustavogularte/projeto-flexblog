@@ -1,0 +1,31 @@
+.introducao {
+  padding: 6rem 2rem;
+}
+
+.sobre {
+  border-top: 0.2rem solid var(--cor-p1);
+  border-bottom: 0.2rem solid var(--cor-p1);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4rem;
+  justify-content: center;
+}
+
+.sobre-conteudo {
+  flex: 1 1 26rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.sobre-conteudo h2 {
+  padding-bottom: 2rem;
+}
+
+.sobre-imagens {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  justify-content: center;
+}

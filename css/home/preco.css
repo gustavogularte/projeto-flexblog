@@ -1,0 +1,73 @@
+.preco-bg {
+  background-color: var(--cor-0);
+}
+
+.preco-itens {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 4rem;
+  padding: 6rem;
+}
+
+.preco-item {
+  flex: 1 1 260px;
+  gap: 4rem;
+  border: 0.5rem solid var(--cor-2);
+  padding: 2rem;
+}
+
+.preco-item h2 {
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+.preco-item span{
+  display: block;
+  text-align: center;
+  border-top: 0.4rem solid var(--cor-2);
+  border-bottom: 0.4rem solid var(--cor-2);
+  padding: 1.2rem 0rem;
+  max-width: 30rem;
+  margin: 0rem auto;
+}
+
+.preco-item ul {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  max-width: 30rem;
+  margin: 0 auto;
+}
+
+.preco-item ul li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-style: italic;
+  padding-bottom: 1.2rem;
+}
+
+.preco-item ul li::after {
+  content: "";
+  display: inline-block;
+  width: 0.8rem;
+  height: 0.8rem;
+  background-color: var(--cor-p1);
+  border-radius: 50%;
+}
+
+
+@media (max-width: 800px) {
+  .preco-itens {
+    padding: 4rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .preco-itens .preco-item:nth-child(2) {
+    order: -1;
+  }
+  .preco-itens .preco-item:nth-child(3) {
+    order: -2;
+  }
+}

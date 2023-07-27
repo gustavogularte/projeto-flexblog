@@ -1,0 +1,47 @@
+.qualidades {
+  padding: 6rem;
+}
+
+.qualidades ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4rem;
+}
+
+.qualidades li {
+  flex: 1 1 26rem;
+}
+
+.qualidades h2 {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  padding-bottom: 1.6rem;
+}
+
+.qualidade-item h2::before {
+  content: "";
+  width: 0.8rem;
+  height: 2.8rem;
+  display: inline-block;
+  background-color: red;
+}
+
+.qualidade-item:nth-of-type(3n+1) h2::before {
+  background-color: var(--cor-s1);
+}
+
+.qualidade-item:nth-of-type(3n+2) h2::before {
+  background-color: var(--cor-s2);
+}
+
+.qualidade-item:nth-of-type(3n+3) h2::before {
+  background-color: var(--cor-s3);
+}
+
+
+@media (max-width:800px) {
+  .qualidades {
+    padding: 4rem;
+  }
+}

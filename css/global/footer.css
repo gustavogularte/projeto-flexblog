@@ -1,0 +1,66 @@
+.footer-bg {
+  background-color: var(--cor-0);
+}
+
+.footer-email {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 6rem;
+  gap: 2rem;
+}
+
+.newsletter {
+  flex: 1 1 24rem;
+  padding: 0rem 4rem;
+}
+
+.newsletter p {
+  max-width: 23rem;
+  font-style: italic;
+}
+
+.email-campo {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 2 1 26rem;
+  border-radius: 0rem;
+  align-self: center;
+}
+
+.email-campo input {
+  padding: 1.2rem;
+  flex: 3 1 20rem;
+  background-color: transparent;
+  border: 0.4rem solid var(--cor-p1);
+}
+
+.email-campo input:focus {
+  border: 0.4rem solid var(--cor-p1);
+  outline: none;
+}
+
+.email-campo button {
+  background-color: var(--cor-p1);
+  border: none;
+  padding: 1.6rem 4rem;
+  flex: 1 1 20rem;
+  cursor: pointer;
+}
+
+.footer {
+  background-color: var(--cor-p1);
+  text-align: center;
+  padding: 4rem;
+  font-weight: 400;
+}
+
+.footer a:hover {
+  color: white;
+  transition: .6s;
+}
+
+@media (max-width:800px) {
+  .newsletter {
+    padding: 0rem 2rem;
+  }
+}

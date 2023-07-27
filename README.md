@@ -1,4 +1,4 @@
-<p align="center"><img src="./img/fotos/desktop-preview.jpg" /></p>
+<p align="center"><img src="./img/desktop-preview.jpg" /></p>
 <p align="center"><h1 align="center" >FlexBlog - Curso de flexbox</h1></p>
 
 <p align="justify">

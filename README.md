@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=html,css"/>
   <img src="https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Curso-Origamid-purple?style=for-the-badge">

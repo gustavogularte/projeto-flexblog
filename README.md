@@ -1,25 +1,70 @@
-<p align="center"><img src="./img/desktop-preview.jpg" /></p>
-<p align="center"><h1 align="center" >FlexBlog - Curso de flexbox</h1></p>
+<h1 align="center">📐 Flexblog - CSS Flexbox | Origamid</h1>
 
-<p align="justify">
-Este é um projeto simples de blog com apenas a home criado pela Origamid no curso "CSS Flexbox"</p>
+<p align="center">
+  Projeto desenvolvido durante o curso <strong>CSS Flexbox</strong> da Origamid.
+</p>
 
-## </> **Tecnologias usadas**
+<p align="center">
+  <img src="./img/desktop-preview.jpg" alt="Preview do projeto" width="900"/>
+</p>
 
-As principais tecnologias usadas nesse projeto:
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Curso-Origamid-purple?style=for-the-badge">
+</p>
 
-`HTML`
+---
 
-`CSS`
+# 📖 Sobre
 
-## 📖 **Descrição do Projeto**
+O **Flexblog** é um projeto desenvolvido durante o curso **CSS Flexbox** da Origamid com o objetivo de aplicar, na prática, os principais conceitos do **Flexbox** na construção de um layout moderno e totalmente responsivo.
 
-Este curso é focado em usar apenas flexbox e usar todas as suas funcionalidades.
+Todo o posicionamento da interface foi construído utilizando Flexbox, demonstrando como esse modelo de layout pode ser utilizado para criar páginas organizadas, flexíveis e adaptáveis a diferentes tamanhos de tela.
 
-## 🔗 **Links**
+---
 
-- Aqui está o site original - https://www.origamid.com/projetos/flexblog/
-- Github pages - https://gustavogularte.github.io/projeto-flexblog
-- Linkedin - https://www.linkedin.com/in/gustavo-gularte-58742a286
-- Meu Twitter - https://twitter.com/gustavoGulArend
-- Meu perfil no Front End Mentor com mais desafios - https://www.frontendmentor.io/profile/gustavogularte
+# ✨ Funcionalidades
+
+- ✅ Layout totalmente responsivo
+- ✅ Estrutura semântica em HTML5
+- ✅ Posicionamento utilizando Flexbox
+- ✅ Organização de componentes da página
+- ✅ Seções de conteúdo
+- ✅ Galeria de informações
+- ✅ Design moderno
+- ✅ Código organizado e de fácil manutenção
+
+---
+
+# 🛠 Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge">
+</p>
+
+---
+
+# 🎯 Objetivo
+
+Este projeto foi desenvolvido com o objetivo de consolidar os conhecimentos adquiridos durante o curso **CSS Flexbox** da Origamid, colocando em prática técnicas de construção de layouts responsivos utilizando apenas HTML e CSS.
+
+---
+
+# 📸 Preview
+
+<p align="center">
+  <img src="./img/desktop-preview.jpg" alt="Preview do projeto" width="900"/>
+</p>
+
+---
+
+# 🔗 Links
+
+- 🌐 **Deploy:** https://gustavogularte.github.io/projeto-flexblog/
+- 💼 LinkedIn: https://www.linkedin.com/in/gustavo-gularte-arend-58742a286/
+- 🌐 Meu perfil no Frontend Mentor: https://www.frontendmentor.io/profile/gustavogularte
